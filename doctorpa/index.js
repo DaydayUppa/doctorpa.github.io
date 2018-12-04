@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'My caress provoked a long, guttural gnarl.',
+      'I could hardly fancy it the same individual I had beheld on the day I discovered my little lady at Wuthering Heights',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'France, less favoured on the whole as to matters spiritual than her sister of the shield and trident',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Before the castle gate all was as the fox had said'      
 };
 
 function status(statusText) {
