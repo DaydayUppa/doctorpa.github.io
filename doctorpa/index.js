@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'I sat and thought a doleful time: the clock struck eight, and nine, and still my companion paced to and fro, his head bent on his breast, and perfectly silent, unless a groan or a bitter ejaculation forced itself out at intervals',
+      'Alice was beginning to get very tired of sitting by her sister on the bank.',
   'example2':
-      'Dont be afraid to hear me. Don't shrink from anything I say. I am likeone who died young. All my life might have been. ',
+      'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Good night, my masters!  said he,  I m off! mind and look sharp after me the next time'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
 };
 
 function status(statusText) {
