@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'I could hardly fancy it the same individual I had beheld on the day I discovered my little lady at Wuthering Heights',
   'example2':
-      'France, less favoured on the whole as to matters spiritual than her sister of the shield and trident',
+      'On the marriage morning, Doctor Manette had made it his one urgent and express request to Charles Darnay',
   'example3':
       'Before the castle gate all was as the fox had said'      
 };
